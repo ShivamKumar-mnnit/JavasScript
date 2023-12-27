@@ -1,3 +1,6 @@
+//Variables and DataTypes
+
+
 console.log("Hello! my name is shivam kumar");
 
 name="shivam";
