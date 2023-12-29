@@ -51,6 +51,6 @@ console.log(kk);
 
 //Alert and prompt;
 // alert("Hello");
-let name = prompt("Hello Enter your name");
-console.log(name);
+// let name = prompt("Hello Enter your name");
+// console.log(name);
 
