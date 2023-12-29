@@ -53,5 +53,16 @@ console.log(strnew.length)         //12
 //2)strnew.toLowerCase()
 //3)strnew.trim()       // to remove white spaces from start and end only
 //4)strnew.charAt(2);
+/*
+5)str.slice(startindex,endindex);   give upto endindex-1   i.e. endindexed value not included
+6)str.concate(str2);        to join 2 strings
+7)str.replace(searchval,newval);
+
+// many more can be learn by google while working
+*/
+
+
 console.log(strnew.toUpperCase());
 console.log(strnew.charAt(2));   //i
+
+
